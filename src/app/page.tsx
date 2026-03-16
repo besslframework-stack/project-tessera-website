@@ -182,7 +182,7 @@ export default function Home() {
                   n: "01", h: "Install in 30 seconds",
                   p1: "One pip install. One setup command. Tessera detects Claude Desktop and configures itself as an MCP server. No Docker, no database, no cloud account.",
                   p2: "For ChatGPT, Gemini, Copilot — start the HTTP server with tessera api. ChatGPT Custom GPT Actions spec included.",
-                  code: "$ pip install project-tessera\n$ tessera setup\n✓ Claude Desktop configured\n✓ MCP server ready (58 tools)\n$ tessera api\n✓ HTTP :8765 (54 endpoints)",
+                  code: "$ pip install project-tessera\n$ tessera setup\n✓ Claude Desktop configured\n✓ MCP server ready (58 tools)\n$ tessera api\n✓ HTTP :8394 (54 endpoints)",
                 },
                 {
                   n: "02", h: "Feed it your knowledge",
